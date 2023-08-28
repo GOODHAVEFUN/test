@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">efwefewfwefwe
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes> efwfewfwefewfwefwefe
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="jst.web;#system#"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD
+	<classpathentry exported="true" kind="lib" path="C:/Users/aortp/Desktop/web_developing/resource/apache-tomcat-9.0.79.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/aortp/Desktop/web_developing/resource/dbeaver-ce-23.1.1-win32.win32.x86_64.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/aortp/Desktop/web_developing/resource/eclipse.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/aortp/Desktop/web_developing/resource/OracleXE112_Win64.zip"/>
+=======
+	<classpathentry kind="lib" path="C:/팀프로젝트/resource/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/팀프로젝트/resource/lib/jstl.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/팀프로젝트/resource/lib/mybatis-3.5.11.jar"/>
+>>>>>>> 439d4c177c05bf576e90641aa0878be61150389a
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
